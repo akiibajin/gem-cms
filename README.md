@@ -42,4 +42,4 @@ The **Gem Project** is a desktop application built using [Tauri](https://tauri.a
 5. Build the desktop app:
     ```bash
     pnpm run tauri build
-    ```s
+    ```
